@@ -12,3 +12,5 @@ for i in range(T):
         room_line -= 1
 
     print(floor * 100 + room_line)
+
+    print("0938")
